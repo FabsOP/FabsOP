@@ -2,7 +2,7 @@
 I'm Fabio, a Computer Scientist and Physicist.
 I have recently completed my postgraduate studies in Computer Science Honours.  
 
-My primary interests lie in simulation software, game development in Unity, Artificial Intelligence, Web Development, and Software development in general
+My primary interests lie in simulation software, game development, Artificial Intelligence, Web Development, and Software development in general
 
 ## About Me
 I have a strong background in:
